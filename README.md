@@ -13,3 +13,5 @@ The simple project utilizes a Long Short-Term Memory (LSTM) to generate music. I
 ## Todo list
 - [ ] Customize ability
 - [ ] Create a simple web app for demo.# music-generator
+
+Ref: https://www.kaggle.com/code/karnikakapoor/music-generation-lstm
